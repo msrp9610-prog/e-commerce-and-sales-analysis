@@ -1,0 +1,101 @@
+model,actual_sales,predicted_sales
+Linear Regression,2915.19,3042.53
+Linear Regression,10928.04,10471.75
+Linear Regression,7665.83,7503.78
+Linear Regression,3595.35,5595.86
+Linear Regression,3175.87,4030.54
+Linear Regression,2744.12,1885.91
+Linear Regression,8368.88,12346.96
+Linear Regression,5370.35,6899.7
+Linear Regression,2902.25,1217.32
+Linear Regression,7797.15,9592.14
+Linear Regression,13075.23,13014.27
+Linear Regression,5705.96,6677.93
+Linear Regression,15190.46,15909.94
+Linear Regression,4154.35,4269.45
+Linear Regression,1733.43,1384.99
+Linear Regression,2822.96,2194.97
+Linear Regression,2332.65,1923.96
+Linear Regression,10304.99,11566.14
+Linear Regression,15413.56,13959.43
+Linear Regression,2551.16,9918.7
+Linear Regression,9737.3,10793.28
+Linear Regression,3221.67,3781.4
+Linear Regression,4538.48,6680.04
+Linear Regression,5921.08,8622.95
+Linear Regression,2167.02,2160.97
+Linear Regression,28899.53,23062.1
+Linear Regression,5460.97,8863.77
+Linear Regression,606.62,-2191.58
+Linear Regression,19136.35,19846.34
+Linear Regression,8762.06,9144.63
+Linear Regression,888.27,-1595.63
+Linear Regression,3528.13,6972.39
+Linear Regression,1276.53,-967.04
+Linear Regression,4496.55,5642.82
+Linear Regression,21531.29,17332.09
+Linear Regression,2128.56,3678.96
+Linear Regression,780.32,-2735.94
+Linear Regression,1238.26,-690.45
+Linear Regression,5145.2,4882.03
+Linear Regression,4755.38,4909.72
+Linear Regression,4800.24,4678.17
+Linear Regression,1839.1,2087.99
+Linear Regression,823.75,-2240.27
+Linear Regression,2965.04,2324.91
+Linear Regression,15191.14,12503.12
+Linear Regression,2425.26,1224.89
+Linear Regression,15587.96,14515.24
+Linear Regression,3472.38,2782.0
+Linear Regression,4214.38,7032.75
+Linear Regression,4817.4,4153.16
+Decision Tree Regressor,2915.19,4840.15
+Decision Tree Regressor,10928.04,15410.52
+Decision Tree Regressor,7665.83,10415.76
+Decision Tree Regressor,3595.35,3157.41
+Decision Tree Regressor,3175.87,2220.88
+Decision Tree Regressor,2744.12,2332.86
+Decision Tree Regressor,8368.88,4925.88
+Decision Tree Regressor,5370.35,5736.83
+Decision Tree Regressor,2902.25,2220.88
+Decision Tree Regressor,7797.15,5736.83
+Decision Tree Regressor,13075.23,10415.76
+Decision Tree Regressor,5705.96,5736.83
+Decision Tree Regressor,15190.46,4925.88
+Decision Tree Regressor,4154.35,4840.15
+Decision Tree Regressor,1733.43,2220.88
+Decision Tree Regressor,2822.96,2220.88
+Decision Tree Regressor,2332.65,2220.88
+Decision Tree Regressor,10304.99,5736.83
+Decision Tree Regressor,15413.56,15410.52
+Decision Tree Regressor,2551.16,2294.98
+Decision Tree Regressor,9737.3,10415.76
+Decision Tree Regressor,3221.67,3157.41
+Decision Tree Regressor,4538.48,5736.83
+Decision Tree Regressor,5921.08,5736.83
+Decision Tree Regressor,2167.02,1065.74
+Decision Tree Regressor,28899.53,21473.58
+Decision Tree Regressor,5460.97,5736.83
+Decision Tree Regressor,606.62,1065.74
+Decision Tree Regressor,19136.35,21473.58
+Decision Tree Regressor,8762.06,4925.88
+Decision Tree Regressor,888.27,1065.74
+Decision Tree Regressor,3528.13,3157.41
+Decision Tree Regressor,1276.53,2220.88
+Decision Tree Regressor,4496.55,4840.15
+Decision Tree Regressor,21531.29,15410.52
+Decision Tree Regressor,2128.56,3157.41
+Decision Tree Regressor,780.32,1065.74
+Decision Tree Regressor,1238.26,2220.88
+Decision Tree Regressor,5145.2,2220.88
+Decision Tree Regressor,4755.38,4840.15
+Decision Tree Regressor,4800.24,2220.88
+Decision Tree Regressor,1839.1,2332.86
+Decision Tree Regressor,823.75,1065.74
+Decision Tree Regressor,2965.04,4840.15
+Decision Tree Regressor,15191.14,15410.52
+Decision Tree Regressor,2425.26,2220.88
+Decision Tree Regressor,15587.96,15410.52
+Decision Tree Regressor,3472.38,2220.88
+Decision Tree Regressor,4214.38,5736.83
+Decision Tree Regressor,4817.4,2220.88

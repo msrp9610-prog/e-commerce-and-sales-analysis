@@ -1,0 +1,10 @@
+{
+  "row_count_after_cleaning": 200,
+  "total_sales": 1388305.61,
+  "average_order_value": 6941.53,
+  "total_units": 1279,
+  "unique_categories": 5,
+  "unique_regions": 5,
+  "date_min": "2025-01-03",
+  "date_max": "2025-12-31"
+}

@@ -1,0 +1,3 @@
+model,MAE,RMSE,R2
+Linear Regression,1610.35,2221.21,0.8601
+Decision Tree Regressor,1583.36,2580.96,0.8112
